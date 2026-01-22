@@ -70,7 +70,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className="bottom-info">
-                    ShabsAI may display inaccurate info, including about the people so double-check its response.
+                    CherryAI may display inaccurate info, including about the people so double-check its response.
                 </p>
             </div>
         </div>

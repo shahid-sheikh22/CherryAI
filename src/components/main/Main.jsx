@@ -74,7 +74,7 @@ const Main = () => {
                 </p>
             </div>
         </div>
-      </div>
+    </div>
     
   )
 }
